@@ -1,0 +1,1 @@
+# abstarct_class
